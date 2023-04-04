@@ -1,0 +1,8 @@
+---
+AccessModifierOffset: -4
+IndentWidth:           4
+Standard:              Cpp11
+TabWidth:              4
+ColumnLimit:           120
+UseTab:                Always
+BreakBeforeBraces:     Allman

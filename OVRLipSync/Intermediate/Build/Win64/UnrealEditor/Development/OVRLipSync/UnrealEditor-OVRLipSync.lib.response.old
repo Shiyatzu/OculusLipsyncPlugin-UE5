@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OVRLipSync.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\tozea\OneDrive\Documentos\Unreal Projects\LipSync\Intermediate\Build\Win64\LipSyncEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\tozea\OneDrive\Documentos\Unreal Projects\LipSync\Plugins\OVRLipSync\Intermediate\Build\Win64\UnrealEditor\Development\OVRLipSync\Module.OVRLipSync.cpp.obj"
+"C:\Users\tozea\OneDrive\Documentos\Unreal Projects\LipSync\Plugins\OVRLipSync\Intermediate\Build\Win64\UnrealEditor\Development\OVRLipSync\Default.rc2.res"
+/OUT:"C:\Users\tozea\OneDrive\Documentos\Unreal Projects\LipSync\Plugins\OVRLipSync\Intermediate\Build\Win64\UnrealEditor\Development\OVRLipSync\UnrealEditor-OVRLipSync.lib"
