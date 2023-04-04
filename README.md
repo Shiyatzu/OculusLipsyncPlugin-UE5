@@ -11,10 +11,6 @@ To use the Oculus LipSync Plugin in your Unreal Engine 5 project, follow these s
 3. Open your Unreal Engine 5 project and enable the Oculus LipSync Plugin in the Plugins menu.
 4. Follow the instructions in the [official documentation](https://developer.oculus.com/documentation/unreal/audio-ovrlipsync-unreal/) to set up lip synchronization for your characters.
 
-## Documentation
-
-The official documentation for the Oculus LipSync Plugin can be found on the [Oculus Developer website](https://developer.oculus.com/documentation/unreal/audio-ovrlipsync-unreal/). This documentation provides detailed instructions on how to set up and use the plugin in your Unreal Engine 5 project.
-
 ## License
 
-This plugin is the property of Oculus and is provided under the [Oculus SDK License](https://developer.oculus.com/licenses/sdk-3.0/), which allows for personal and commercial use of the plugin. By using this plugin, you agree to the terms of the Oculus SDK License.
+This plugin is the property of Oculus and is provided under the [Oculus SDK License](https://developer.oculus.com/licenses/audio-3.3/), which allows for personal and commercial use of the plugin. By using this plugin, you agree to the terms of the Oculus SDK License.
