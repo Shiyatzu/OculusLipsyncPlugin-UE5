@@ -2,6 +2,14 @@
 
 This repository contains the Oculus LipSync Plugin, which has been compiled for Unreal Engine 5. This plugin allows you to synchronize the lips of 3D characters in your game with audio in real-time, using the Oculus LipSync technology.
 
+## Sample
+
+Check out this video to see the Oculus LipSync Plugin in action:
+
+[![Oculus LipSync Plugin Demo Video](https://img.youtube.com/vi/542jQBMXvSw/0.jpg)](https://www.youtube.com/watch?v=542jQBMXvSw)
+
+In this video, you can see how the plugin synchronizes the lips of a 3D character with audio.
+
 ## Getting Started
 
 To use the Oculus LipSync Plugin in your Unreal Engine 5 project, follow these steps:
