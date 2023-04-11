@@ -7,7 +7,7 @@ This repository contains the Oculus LipSync Plugin, which has been compiled for 
 To use the Oculus LipSync Plugin in your Unreal Engine 5 project, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Copy the `OculusLipSync` folder from the `Plugins` folder in this repository to the `Plugins` folder in your Unreal Engine 5 project directory.
+2. Copy the `OVRLipSync` folder in this repository to the `Plugins` folder in your Unreal Engine 5 project directory.
 3. Open your Unreal Engine 5 project and enable the Oculus LipSync Plugin in the Plugins menu.
 4. Follow the instructions in the [official documentation](https://developer.oculus.com/documentation/unreal/audio-ovrlipsync-unreal/) to set up lip synchronization for your characters.
 
